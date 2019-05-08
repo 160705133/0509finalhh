@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">thw</string>
+    <string name="service_white">启动按键监听</string>
+    <string name="stop_white">停止监听</string>
+    <string name="service_bg">后台进程</string>
+    <string name="stop_bg">停止后台进程</string>
+    <string name="exit">退出主程序</string>
+    <string name="keyActionService">keyActionService</string>
+    <string name="accessibility_description">accessibility_description</string>
+
+</resources>
